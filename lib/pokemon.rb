@@ -7,5 +7,5 @@ class Pokemon
     @type = type
     @db = db
   end
-  
+
 end
